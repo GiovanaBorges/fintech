@@ -35,7 +35,7 @@ Antes de começar a usar a API Fintech, certifique-se de que você tenha instala
 1. Clone o repositório do projeto:
 
    ```bash
-   git clone https://github.com/GiovanaBorges/fintech-api.git
+   git clone https://github.com/GiovanaBorges/fintech.git
    ```
 
 2. Navegue até o diretório do projeto:
